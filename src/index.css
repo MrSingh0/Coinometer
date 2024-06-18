@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    --white: #fff;
+    --black: #171717;
+    --blue: #3a80e9;
+    --gray: #888;
+    --darkgrey: #1b1b1b;
+    --green: #61c96f;
+    --red: #f94141; 
+    --dark: #54345D;
+    --light: #814292;
+}
+
+
+body{
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: var(--black);
+    color: var(--white);
+    font-family: Roboto Condensed;
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+::selection{
+    background-color: var(--dark);
+    color: var(--gray);
+}
+
+::-webkit-scrollbar {
+    width: 0.3rem;
+}
+  
+::-webkit-scrollbar-track {
+    background: var(--gray);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--light);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--dark);
+}
+
+a{
+    color: var(--white) !important;
+    text-decoration: none !important;
+}
+
+img {
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -o-user-drag: none;
+    -o-user-drag: none;
+}
+
+
+.grey-wrapper{
+    display: block;
+    width: 90%;
+    background-color: var(--darkgrey);
+    margin: 1.5rem auto;
+    border-radius: 0.8rem;
+    padding: 1rem 1rem;
+}
+
+
