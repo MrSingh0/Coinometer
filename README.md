@@ -26,20 +26,19 @@ A website providing real-time prices of cryptocurrencies using React, Vite, Tail
 - Watchlist feature
 
 ## Screenshot
-<b>HomePage:</b>
+<b><i>HomePage:</i></b>
 ![image](https://github.com/user-attachments/assets/56450260-31f4-4713-b6dd-051a38a0b3cb)
 
-<b>Compare Page:</b>
+<b><i>Compare Page:</i></b>
 ![image](https://github.com/user-attachments/assets/3b70c936-6087-4c9e-9ff4-a13a9becbdf0)
 
-<b>Dashboard Page:</b>
 <b><i>Grid Style:</i></b>
 ![image](https://github.com/user-attachments/assets/bf2a9e58-f130-4ceb-9631-7f27655ccd53)
 
-<i>ListStyle</i>
+<b><i>ListStyle</i></b>
 ![image](https://github.com/user-attachments/assets/aec56997-d0fb-4b6a-bab8-f4362a0b63fa)
 
-<b>CoinPage</b>
+<b><i>CoinPage: </i></b>
 ![image](https://github.com/user-attachments/assets/0c6f3e59-9921-4be8-ab16-ef3dc9c38467)
 
 
