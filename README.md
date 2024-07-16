@@ -12,7 +12,6 @@ A website providing real-time prices of cryptocurrencies using React, Vite, Tail
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [API](#api)
@@ -25,11 +24,7 @@ A website providing real-time prices of cryptocurrencies using React, Vite, Tail
 - Responsive and intuitive user interface
 - Price charts and trends
 - Comparison of multiple cryptocurrencies
+- Watchlist feature
 
-## Installation
+## Technologies Used
 
-1. **Clone the repository:**
-
-   ```sh
-   git clone https://github.com/MrSingh0/Coinometer.git
-   cd Coinometer
