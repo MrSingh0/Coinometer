@@ -55,7 +55,7 @@ Framer
 <b>CoinGeco</b>: https://www.coingecko.com/en/api
 
 ## License:
-This project is licensed under the [MIT License](./LICENSE.md).
+This project is licensed under the [MIT License](./LICENSE).
 
 
 
