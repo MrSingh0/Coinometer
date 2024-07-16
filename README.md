@@ -26,20 +26,20 @@ A website providing real-time prices of cryptocurrencies using React, Vite, Tail
 - Watchlist feature
 
 ## Screenshot
-HomePage
+<b>HomePage</b>
 ![image](https://github.com/user-attachments/assets/56450260-31f4-4713-b6dd-051a38a0b3cb)
 
-Compare Page
+<b>Compare Page</b>
 ![image](https://github.com/user-attachments/assets/3b70c936-6087-4c9e-9ff4-a13a9becbdf0)
 
-Dashboard
-Grid Style
+<b>Dashboard</b>
+<i>Grid Style</i>
 ![image](https://github.com/user-attachments/assets/bf2a9e58-f130-4ceb-9631-7f27655ccd53)
 
-ListStyle
+<i>ListStyle</i>
 ![image](https://github.com/user-attachments/assets/aec56997-d0fb-4b6a-bab8-f4362a0b63fa)
 
-CoinPage
+<b>CoinPage</b>
 ![image](https://github.com/user-attachments/assets/0c6f3e59-9921-4be8-ab16-ef3dc9c38467)
 
 
@@ -53,7 +53,7 @@ API
 Framer
 
 ## API: 
-<b>CoinGeco</b> https://www.coingecko.com/en/api
+<b>CoinGeco</b>: https://www.coingecko.com/en/api
 
 ## License:
 
