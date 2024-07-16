@@ -35,13 +35,13 @@ A website providing real-time prices of cryptocurrencies using React, Vite, Tail
 
 
 ## Technologies Used
-REACTT JS
-VITE
-CSS
-TAILWIND CSS
-MATERIAL UI
-API
-Framer
+- REACTT JS
+- VITE
+- CSS
+- TAILWIND CSS
+- MATERIAL UI
+- API
+- FRAMER
 
 ## API: 
 <b>CoinGeco</b>: https://www.coingecko.com/en/api
