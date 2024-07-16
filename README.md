@@ -1,8 +1,28 @@
-# React + Vite
+# Coinometer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Coinometer is a website that provides real-time prices of cryptocurrencies. Built with React, Vite, Tailwind CSS, Material UI, and the CoinGecko API, Coinometer offers users an intuitive and fast interface for tracking the latest cryptocurrency prices and trends.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [API](#api)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Real-time cryptocurrency prices
+- Responsive and intuitive user interface
+- Price charts and trends
+- Comparison of multiple cryptocurrencies
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/MrSingh0/Coinometer.git
+   cd Coinometer
