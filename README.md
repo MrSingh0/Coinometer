@@ -1,8 +1,7 @@
 # Coinometer
 
 ![Stars](https://img.shields.io/github/stars/MrSingh0/Coinometer?style=social)
-![Views](https://img.shields.io/github/views/MrSingh0/Coinometer?style=social)
-![License](https://img.shields.io/github/license/MrSingh0/Coinometer)
+![License](https://img.shields.io/github/license/MrSingh0/Coinometer/License)
 
 A website providing real-time prices of cryptocurrencies using React, Vite, Tailwind CSS, Material UI, and the CoinGecko API.
 
